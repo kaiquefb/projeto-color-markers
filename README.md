@@ -1,3 +1,3 @@
-# html-css-color-markers
-# Feito com freecodecamp by Kaique
-https://kaiquefb.github.io/html-css-color-markers/
+# projeto-color-markers
+
+https://kaiquefb.github.io/projeto-color-markers/
